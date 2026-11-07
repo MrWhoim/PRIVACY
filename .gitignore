@@ -1,0 +1,33 @@
+# ---- secrets & machine-specific (NEVER commit) ----
+local.properties
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+.env
+.env.*
+
+# ---- generated files ----
+build/
+*/build/
+.gradle/
+.idea/
+*.iml
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.zip
+*.log
+.DS_Store
+
+# ---- your private/internal material (stays on your PC) ----
+CREDITS-SYSTEM.md
+dashboard/
+supabase/*.sql
+supabase/*.md
+supabase/functions/admin-api/
+supabase/.temp/
+supabase/.branches/

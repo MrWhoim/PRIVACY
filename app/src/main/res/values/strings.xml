@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PRIVACY</string>
+    <string name="widget_label">PRIVACY · Tasks</string>
+    <string name="widget_description">Today\'s task list. Tap the circle to cross a task out, tap its name to mark it in progress.</string>
+    <string name="focus_widget_label">PRIVACY · Dopamine vs Detox</string>
+    <string name="focus_widget_description">Focus of the day: detox and dopamine percentages at the edges with the graph of the day between them.</string>
+    <string name="health_widget_label">PRIVACY · Health</string>
+    <string name="health_widget_description">Health of the day with four bars: nutrition, activity, sleep and water.</string>
+    <string name="mic_widget_label">PRIVACY · Mic</string>
+    <string name="mic_widget_description">One tap and the pixel assistant appears over your screen, listening.</string>
+    <string name="note_view_widget_label">PRIVACY · Note</string>
+    <string name="note_view_widget_description">Shows one note you choose, right on your home screen.</string>
+    <string name="note_widget_label">PRIVACY · New note</string>
+    <string name="note_widget_description">One tap opens a new empty note.</string>
+</resources>

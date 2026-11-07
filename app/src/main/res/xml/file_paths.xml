@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="camera" path="camera/" />
+    <cache-path name="share" path="share/" />
+    <cache-path name="shared" path="shared/" />
+    <external-path name="ext" path="." />
+</paths>
